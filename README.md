@@ -110,7 +110,7 @@ me.say_hello()
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/Email-amansinghrawat992752%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amansinghrawat992752@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amansinghrawat)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ASR134)
 
 </div>
 
