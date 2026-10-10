@@ -12,7 +12,7 @@
 
 <!-- Profile Views + Social Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=amansinghrawat&label=Profile%20Views&color=7c3aed&style=flat-square)
-[![Gmail](https://img.shields.io/badge/Gmail-amansinghrawat992752-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:amansinghrawat992752@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-aman.rawat.it-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aman.rawat.it@gmail.com)
 
 </div>
 
@@ -30,7 +30,7 @@ class AmanSinghRawat:
         self.current     = "Building Ak-Dskit 🔭"
         self.learning    = ["Machine Learning", "Data Science", "Deep Learning"]
         self.ask_me      = ["NumPy", "Pandas", "Seaborn", "EDA"]
-        self.email       = "amansinghrawat992752@gmail.com"
+        self.email       = "aman.rawat.it@gmail.com"
         self.fun_fact    = "I speak Python better than English 🐍"
 
     def say_hello(self):
@@ -51,6 +51,7 @@ me.say_hello()
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
 
 **📊 Data Science & ML**
 
@@ -60,6 +61,18 @@ me.say_hello()
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-7C3AED?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-7C3AED?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-7C3AED?style=for-the-badge)
+
+**🧠 GenAI**
+
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-7C3AED?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-7C3AED?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
 
 
 **🖥️ Web Apps & Dashboards**
@@ -72,6 +85,11 @@ me.say_hello()
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-009688?style=for-the-badge)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![Alembic](https://img.shields.io/badge/Alembic-6BA81E?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 **🧰 Tools & Platforms**
@@ -81,32 +99,11 @@ me.say_hello()
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![httpx](https://img.shields.io/badge/httpx-499848?style=for-the-badge)
 
 </div>
-
----
-
-<!-- Focus Areas -->
-## 🚀 What I'm Working On
-
-<table>
-  <tr>
-    <td>🤖 <b>Machine Learning</b></td>
-    <td>Building and fine-tuning models from scratch</td>
-  </tr>
-  <tr>
-    <td>📈 <b>Data Analysis & EDA</b></td>
-    <td>Extracting patterns and insights from raw data</td>
-  </tr>
-  <tr>
-    <td>📦 <b>Ak-Dskit</b></td>
-    <td>A data science toolkit — watch this space!</td>
-  </tr>
-  <tr>
-    <td>🌟 <b>Open Source</b></td>
-    <td>Contributing to the ML community</td>
-  </tr>
-</table>
 
 ---
 
@@ -115,7 +112,7 @@ me.say_hello()
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Email-amansinghrawat992752%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amansinghrawat992752@gmail.com)
+[![Gmail](https://img.shields.io/badge/Email-aman.rawat.it%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aman.rawat.it@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ASR134)
 
 </div>
