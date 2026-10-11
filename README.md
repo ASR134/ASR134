@@ -25,11 +25,9 @@
 class AmanSinghRawat:
     def __init__(self):
         self.name        = "Aman Singh Rawat"
-        self.role        = "Machine Learning Enthusiast"
+        self.role        = "AI Engineer"
         self.location    = "India 🇮🇳"
-        self.current     = "Building Ak-Dskit 🔭"
-        self.learning    = ["Machine Learning", "Data Science", "Deep Learning"]
-        self.ask_me      = ["NumPy", "Pandas", "Seaborn", "EDA"]
+        self.current     = "Building, Breaking, Learning, Repeating 🔭"
         self.email       = "aman.rawat.it@gmail.com"
         self.fun_fact    = "I speak Python better than English 🐍"
 
