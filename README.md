@@ -72,6 +72,8 @@ me.say_hello()
 ![Sentence Transformers](https://img.shields.io/badge/Sentence%20Transformers-7C3AED?style=for-the-badge)
 ![Embeddings](https://img.shields.io/badge/Embeddings-7C3AED?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge)
+![RAGAS](https://img.shields.io/badge/RAGAS-FF6B35?style=for-the-badge&logo=data:image/svg+xml;base64,PASTE_BASE64_HERE)
+
 
 **⚡ Backend & Web Apps**
 
